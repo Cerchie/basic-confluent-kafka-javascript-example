@@ -1,5 +1,5 @@
 const { Kafka } = require('@confluentinc/kafka-javascript').KafkaJS;
-// this example is from the Confluent documentation: https://github.com/confluentinc/confluent-kafka-javascript/blob/dev_early_access_development_branch/QUICKSTART.md
+// the consumerStart function is from the Confluent documentation: https://github.com/confluentinc/confluent-kafka-javascript/blob/dev_early_access_development_branch/QUICKSTART.md
 require("dotenv").config();
 
 const kafka = new Kafka({
