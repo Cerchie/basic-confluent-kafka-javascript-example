@@ -97,6 +97,8 @@ and in the other
 
 `node consumer.js` 
 
+https://github.com/Cerchie/basic-confluent-kafka-javascript-example/assets/54046179/62a8c715-9856-4842-848d-e97a175a6ec8
+
 you can doubly verify that this is working by visiting your Confluent Cloud topic in the CC UI:
 
 ![CC UI image](/db_records.png)
