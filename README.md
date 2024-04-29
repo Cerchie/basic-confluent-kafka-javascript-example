@@ -1,0 +1,1 @@
+This is a basic example of using the [confluent-kafka-javascript](https://github.com/confluentinc/confluent-kafka-javascript) client. 
