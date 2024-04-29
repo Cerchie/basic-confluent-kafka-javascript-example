@@ -1,4 +1,4 @@
-This is a basic example of using the [confluent-kafka-javascript](https://github.com/confluentinc/confluent-kafka-javascript) client. 
+This is a basic example of using the [confluent-kafka-javascript](https://github.com/confluentinc/confluent-kafka-javascript) client (early access as of when this was written, 4/29/24). 
 
 In this example, you'll produce database metadata records (made in the example with faker.js) to a Kafka topic and consume the records from the same topic. 
 
